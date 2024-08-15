@@ -1,0 +1,34 @@
+*{
+  margin: 0px;
+}
+
+#box{
+  display: flex;
+  justify-content: center;  
+  align-items: center;
+}
+
+#paint{
+  width: 500px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid;
+}
+
+#Button{
+  margin: 20px;
+}
+
+ul{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Mint{
+  display: flex;
+}
