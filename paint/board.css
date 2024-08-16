@@ -1,34 +1,11 @@
-*{
-  margin: 0px;
+canvas {
+  width: 800px;
+  height: 800px;
+  border: 5px  solid black;
 }
 
-#box{
-  display: flex;
-  justify-content: center;  
-  align-items: center;
-}
-
-#paint{
-  width: 500px;
-  height: 500px;
+body{
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid;
-}
-
-#Button{
-  margin: 20px;
-}
-
-ul{
-  list-style: none;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.Mint{
-  display: flex;
 }
